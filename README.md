@@ -75,5 +75,3 @@ Execute:
 ```bash
 ./gradlew testDebugUnitTest
 ```
-
-```
