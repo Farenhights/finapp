@@ -1,0 +1,16 @@
+[
+  {
+    "id": "t1",
+    "date": "2024-07-01",
+    "type": "CREDIT",
+    "amount": 1000.0,
+    "description": "Depósito inicial"
+  },
+  {
+    "id": "t2",
+    "date": "2024-07-02",
+    "type": "DEBIT",
+    "amount": 200.0,
+    "description": "Pagamento boleto"
+  }
+]
