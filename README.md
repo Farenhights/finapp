@@ -66,7 +66,7 @@ presentation
 
 ## Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/finapp.git
+   git clone https://github.com/Farenhights/finapp.git
    ```
 
 ## 🧪 Como rodar os testes
